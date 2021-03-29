@@ -11,7 +11,7 @@ Simple IOS App using objective-c to Manage Your Todos , sort Them and with remin
 - [X] Reminder feature .
 
 ## ScreenShots :
-![alt text](https://github.com/bavly19/Sportive/blob/bavly/ScreenShots/1.png)
+![alt text](https://github.com/bavly19/AwesomTodoList/blob/bavly/screenshots/1.jpeg)
 
 ## Technologies
 * Firebase
