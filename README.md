@@ -1,4 +1,4 @@
-# AwesomTodoList App
+# AwesomeTodoList App
 Simple IOS App using objective-c to Manage Your Todos , sort Them and with reminder
 ## TODO :
 - [X] Create Application Design.
